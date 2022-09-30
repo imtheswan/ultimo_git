@@ -1,3 +1,1 @@
-## Iker y Aldo: Agregén el enlace a su página en index.html
-## Aldo: Agrega tu archivo Aldo.html
-## :)
+## Quien no haya agregado el enlace a su página en index.html, hágalo por favor
